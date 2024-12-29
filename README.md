@@ -1,5 +1,5 @@
 # 💫 About Me:
-am a fellow student at PES UNIVERSITY
+Am a fellow student at PES UNIVERSITY, I love robotics and machine learning............
 
 
 ## 🌐 Socials:
