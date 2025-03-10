@@ -1,5 +1,4 @@
-#  About Me:
-A fellow student at PES UNIVERSITY
+
 
 
 ##  Socials:
